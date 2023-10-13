@@ -35,6 +35,11 @@ Happy Coding! 😊
 [![Java](http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white)](https://www.java.com/)
 [![Spring Boot](http://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Angular](http://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)](https://angular.io/)
+[![TypeScript](http://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Google Apps Script](http://img.shields.io/badge/-Google%20Apps%20Script-4285F4?style=flat&logo=google&logoColor=white)](https://developers.google.com/apps-script)
+[![Angular Material](http://img.shields.io/badge/-Angular%20Material-1976D2?style=flat&logo=angular&logoColor=white)](https://material.angular.io/)
+[![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MVC](http://img.shields.io/badge/-MVC-FF5733?style=flat&logo=architecture&logoColor=white)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
 <br>
 <a href="https://www.linkedin.com/in/franklin-freddy-gamboa-bedor" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
