@@ -5,7 +5,7 @@
 
 <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
     <h1 align = "center">Mi nombre 👋 Franklin Freddy Gamboa Bedor</h1>
-    <h3 align = "center">Soy una persona que domina el lenguaje java javascript .net6 base de datos curioso e interesado en aprender nuevas tecnologías, con capacidad para resolver problemas, habilidades de comunicación, atención al detalle, capacidad para trabajar en equipo, actitud positiva y proactiva. Motivada y dispuesta a aprender y crecer en el campo de la programación y el desarrollo de software.</h3>
+    <h3 align = "center">Soy una persona apasionada en aumentar mis conociminetos en lenguaje como java javascript .net6 framework como spring boot y angular base de datos curioso e interesado en aprender nuevas tecnologías, con capacidad para resolver problemas, habilidades de comunicación, atención al detalle, capacidad para trabajar en equipo, actitud positiva y proactiva. Motivada y dispuesta a aprender y crecer en el campo de la programación y el desarrollo de software.</h3>
     
 
 </div>
@@ -32,10 +32,13 @@ Happy Coding! 😊
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
-[![Java](http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white)](https://www.java.com/)
-[![Spring Boot](http://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Angular](http://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)](https://angular.io/)
-
+<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white" alt="Java">
+    
+    <!-- Agregar la etiqueta de Spring Boot -->
+    <img src="http://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Boot">
+    
+    <!-- Agregar la etiqueta de Angular -->
+    <img src="http://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular">
   [![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 
 <br>
