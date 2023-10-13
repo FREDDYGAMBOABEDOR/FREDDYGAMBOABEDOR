@@ -33,12 +33,6 @@ Happy Coding! 😊
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white" alt="Java">
-    
-    <!-- Agregar la etiqueta de Spring Boot -->
-    <img src="http://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Boot">
-    
-    <!-- Agregar la etiqueta de Angular -->
-    <img src="http://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular">
   [![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 
 <br>
