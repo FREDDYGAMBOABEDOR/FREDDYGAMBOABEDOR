@@ -35,6 +35,9 @@ Happy Coding! 😊
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white" alt="Java">
   [![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 
+[![Java](http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white)](https://www.java.com/)
+[![Spring Boot](http://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Angular](http://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)](https://angular.io/)
 <br>
 <a href="https://www.linkedin.com/in/franklin-freddy-gamboa-bedor" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
